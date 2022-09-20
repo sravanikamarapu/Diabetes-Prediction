@@ -41,25 +41,25 @@ to predict if the patient is diabetic or not.
 The dataset contains 130,157 rows and 181 columns. Diabetes Mellitus is the
 feature we are going to predict.
 
-1. Logistic Regression
+## 1. Logistic Regression
 
-Training Accuracy 70-30 -> 81.42 <br />
-Training Accuracy 80-20 -> 81.23
+          Training Accuracy 70-30 -> 81.42 <br />
+          Training Accuracy 80-20 -> 81.23
 
-2. Decision Tree
+## 2. Decision Tree
 
-Training Accuracy 70-30 -> 74.78
-Training Accuracy 80-20 -> 74.63
+          Training Accuracy 70-30 -> 74.78 <br />
+          Training Accuracy 80-20 -> 74.63
 
-3. Random Forest
+## 3. Random Forest
 
-Training Accuracy 70-30 -> 80.56
-Training Accuracy 80-20 -> 80.12
+          Training Accuracy 70-30 -> 80.56 <br />
+          Training Accuracy 80-20 -> 80.12
 
-4. XGBoost
+## 4. XGBoost
 
-Training Accuracy 70-30 -> 82.61
-Training Accuracy 80-20 -> 82.38
+          Training Accuracy 70-30 -> 82.61 <br />
+          Training Accuracy 80-20 -> 82.38
 The above data shows that XG Boost gives the highest accuracy of 82.61%
 
 
