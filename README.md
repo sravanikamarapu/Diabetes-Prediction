@@ -1,7 +1,7 @@
 # Diabetes-Prediction
 Diabetes Prediction using Machine Learning
 
-##### Abstract:
+#### Abstract:
 
 Getting a rapid understanding of the context of a patient’s overall health has been
 particularly important during the COVID-19 pandemic as healthcare workers
@@ -27,16 +27,16 @@ Our result shows that XGBoost achieved higher accuracy compared to other
 machine learning techniques.
 
 
-Methodology:
+#### Methodology:
 
 Five different methods were used in this paper. The
 different methods used are defined below. The output is the accuracy metrics of
 the machine learning models. Then, the model can be used in prediction
 
-Dataset Description:
+#### Dataset Description:
 
 The data set used is
-https://www.kaggle.com/competitions/widsdatathon2021/data. The objective is
+https://www.kaggle.com/competitions/widsdatathon2021/data . The objective is
 to predict if the patient is diabetic or not.
 The dataset contains 130,157 rows and 181 columns. Diabetes Mellitus is the
 feature we are going to predict.
@@ -63,7 +63,7 @@ Training Accuracy 80-20 -> 82.38
 The above data shows that XG Boost gives the highest accuracy of 82.61%
 
 
-Conclusion:
+#### Conclusion:
 
 One of the important real-world medical problems is the detection of diabetes at
 its early stage. In this study, systematic efforts are made in designing a system
