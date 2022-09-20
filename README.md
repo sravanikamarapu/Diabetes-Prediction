@@ -43,7 +43,7 @@ feature we are going to predict.
 
 1. Logistic Regression
 
-Training Accuracy 70-30 -> 81.42
+Training Accuracy 70-30 -> 81.42 <br />
 Training Accuracy 80-20 -> 81.23
 
 2. Decision Tree
