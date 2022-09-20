@@ -1,7 +1,7 @@
 # Diabetes-Prediction
 Diabetes Prediction using Machine Learning
 
-Abstract:
+# Abstract:
 
 Getting a rapid understanding of the context of a patient’s overall health has been
 particularly important during the COVID-19 pandemic as healthcare workers
